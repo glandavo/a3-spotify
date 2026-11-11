@@ -2,10 +2,10 @@
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-2/10
+5/10
 - 1/1 Communicating with the webserver
 - 1/1 Populating information about the user
-- */3 Populating the search component
+- 3/3 Populating the search component
 - */3 Artist page
 - */1.5 Album page
 - */0.5 Track page
@@ -18,6 +18,8 @@
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 - Lecture slides
 - Code from demos
+- https://angular.dev/api/core/@for#syntax
+- https://angular.dev/guide/templates/binding
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 None outside of our pair

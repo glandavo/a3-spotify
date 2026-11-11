@@ -33,7 +33,6 @@
 					}
 					<!--TODO: Use @if to hide if hideAlbum is true; link to the album's endpoint and display the album's name-->
 					@if (!hideAlbum) {
-						<!--<td><a [routerLink]="['/album', track.album[0].id]">{{ track.album[0].name }}</a></td>-->
 						<td>
 							@if (track.album) {
 							<a [routerLink]="['/album', track.album.id]"> {{ track.album.name }}</a>
