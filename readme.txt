@@ -18,6 +18,7 @@
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 - Lecture slides
 - Code from demos
+- https://angular.dev/api/core/@if
 - https://angular.dev/api/core/@for#syntax
 - https://angular.dev/guide/templates/binding
 
