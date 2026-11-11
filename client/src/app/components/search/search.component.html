@@ -11,8 +11,11 @@
 </select>
 <!--TODO: Call search function when the button is clicked-->
 <button class="btn btn-light" (click)="search()">Search</button>
-@if (resources && resources.length > 0 && resources[0].category != 'track') {
+<!--TODO: Display a carousel component if searching for an artist or album. Bind carousel's resources and give it a static carouselId.-->
+@if (resources && resources.length > 0 && resources[0].category !== 'track') {
 <app-carousel carouselId="carousel" [resources]="resources"></app-carousel>
 }
-<!--TODO: Display a carousel component if searching for an artist or album. Bind carousel's resources and give it a static carouselId.-->
 <!--TODO: Display a track-list component if searching for a track. Bind track-list's tracks.-->
+@if (resources && resources.length > 0 && resources[0].category === 'track') {
+<app-track-list [tracks]="resources"></app-track-list>
+}
