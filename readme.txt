@@ -1,4 +1,4 @@
---Readme document for Gabrielle Neve Landavora, glandavo@uci.edu--
+--Readme document for Gabrielle Neve Landavora, glandavo@uci.edu & Kylie Thongsrinoon, thongsrt@uci.edu--
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
@@ -18,10 +18,9 @@
 3. What online resources did you consult when completing this assignment? (list specific URLs)
 - Lecture slides
 - Code from demos
-kgglugl
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-None
+None outside of our pair
 
 
 5. Did you add a bonus feature to your submission? If so, what is it and how should we see it?
