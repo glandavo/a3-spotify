@@ -8,11 +8,11 @@
 - 3/3 Populating the search component
 - 3/3 Artist page
 - 1/1.5 Album page
-- */0.5 Track page
+- 0.5/0.5 Track page
 
 
 2. How long, in hours, did it take you to complete this assignment?
-
+~12 hours
 
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
