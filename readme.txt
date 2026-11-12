@@ -2,17 +2,17 @@
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-5/10
+10/10
 - 1/1 Communicating with the webserver
 - 1/1 Populating information about the user
 - 3/3 Populating the search component
 - 3/3 Artist page
-- 1/1.5 Album page
+- 1.5/1.5 Album page
 - 0.5/0.5 Track page
 
 
 2. How long, in hours, did it take you to complete this assignment?
-~12 hours
+Estimated guess is around 31 hours.
 
 
 3. What online resources did you consult when completing this assignment? (list specific URLs)
@@ -21,6 +21,21 @@
 - https://angular.dev/api/core/@if
 - https://angular.dev/api/core/@for#syntax
 - https://angular.dev/guide/templates/binding
+- https://angular.dev/guide/components
+- https://angular.dev/guide/components/inputs
+- https://angular.dev/guide/templates
+- https://angular.dev/guide/di
+- https://angular.dev/guide/routing
+- https://angular.dev/guide/http
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
+- https://rxjs.dev/api/index/function/firstValueFrom
+- https://www.typescriptlang.org/docs/handbook/2/classes.html
+- https://www.typescriptlang.org/docs/handbook/2/everyday-types.html
+- https://angular.dev/guide/templates/pipes
+- https://getbootstrap.com/docs/5.3/components/progress/
+- https://expressjs.com/en/guide/routing/
+- http://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURIComponent
+- https://developer.spotify.com/documentation/web-api
 
 4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 None outside of our pair. We did pair programming on one laptop, then switched to each taking turns writing in code on our own devices (while still sitting together) and coding in-person together.
